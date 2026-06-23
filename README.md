@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Tirth Joshi 👋
 
-<!--
-**Tirth-67/Tirth-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student focused on building practical, clean, and user-friendly web projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 B.Tech CSE Student
+* 💻 Interested in Frontend Development, Cloud, and AI-assisted development
+* 🧠 Learning Data Structures & Algorithms with Java
+* 🚀 Building real-world student-level projects and improving my GitHub profile
+* 🌐 Portfolio: https://tirthjoshi.netlify.app
+* 🧩 LeetCode: https://leetcode.com/u/Tirth_17
+
+## Tech Stack
+
+**Languages:**
+HTML, CSS, JavaScript, Java, Python
+
+**Tools & Platforms:**
+Git, GitHub, Netlify, VS Code, Antigravity
+
+**Currently Learning:**
+Cloud basics, DSA, Web Development, Project Deployment
+
+## Featured Project
+
+### Portfolio Website
+
+A personal portfolio website created using HTML, CSS, and JavaScript to showcase my skills, projects, resume, and learning journey.
+
+Live Website: https://tirthjoshi.netlify.app
+Repository: https://github.com/Tirth-67/tirth-joshi-portfolio
+
+## Current Goal
+
+I am currently working on improving my GitHub profile by building clean and practical projects that solve real problems.
