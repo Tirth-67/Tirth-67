@@ -28,7 +28,7 @@ Cloud basics, DSA, Web Development, Project Deployment
 
 A personal portfolio website created using HTML, CSS, and JavaScript to showcase my skills, projects, resume, and learning journey.
 
-Live Website: https://tirthjoshi.netlify.app
+Live Website: https://tirth-joshi-portfolio.vercel.app
 Repository: https://github.com/Tirth-67/tirth-joshi-portfolio
 
 ## Current Goal
