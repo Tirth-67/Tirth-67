@@ -8,7 +8,7 @@ I am a Computer Science Engineering student focused on building practical, clean
 * 💻 Interested in Frontend Development, Cloud, and AI-assisted development
 * 🧠 Learning Data Structures & Algorithms with Java
 * 🚀 Building real-world student-level projects and improving my GitHub profile
-* 🌐 Portfolio: https://tirthjoshi.netlify.app
+* 🌐 Portfolio: https://tirth-joshi-portfolio.vercel.app
 * 🧩 LeetCode: https://leetcode.com/u/Tirth_17
 
 ## Tech Stack
